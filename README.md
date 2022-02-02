@@ -19,5 +19,5 @@ I have being interested in...
   - Nest.js
   - Django
   
-Also, I am always finding better place to enjoy my programming life.
+Also, I am always finding better place to enjoy my programming life.\n
 Now, I am in Korea, ...and will be in New Zealand.
