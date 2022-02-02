@@ -10,11 +10,11 @@ You can click the Preview link to take a look at your changes.
 --->
 
 Welcome to my GitHub!
-=============
+==
 
 I have being interested in...
-=============
-- Algorithm Trading
+--
+- #Algorithm Trading
   -  ...
   
 - Web Front 
