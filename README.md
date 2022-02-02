@@ -20,4 +20,4 @@ I have being interested in...
   - Django
   
 #### Also, I am always finding better place to enjoy my programming life.  
-### Now, I am in Korea, ...and will be in New Zealand.
+### Now, I am in Korea ...and will be in New Zealand.
