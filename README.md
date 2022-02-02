@@ -14,7 +14,7 @@ Welcome to my GitHub!
 
 I have being interested in...
 --
-- #Algorithm Trading
+- Algorithm Trading
   -  ...
   
 - Web Front 
