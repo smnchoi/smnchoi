@@ -7,7 +7,7 @@ I have being interested in...
   -  ...
   
 - Web Front 
-  - ![alt text](https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-1024.png)React 
+  - React 
 
 - App Front
   - React Native
