@@ -18,7 +18,15 @@ I have being interested in...
   - AWS Amplify
   - Nest.js
   - Spring
-  - Django
+  - Django 
   
-#### Also, I am always finding better place to enjoy my programming life.  
-### Now, I am in Korea ...and will be in New Zealand.
+  
+  
+  
+  
+  
+---
+
+
+> #### Also, I am always finding better place to enjoy my programming life.  
+> ### Now, I am in Korea ...and will be in New Zealand.
