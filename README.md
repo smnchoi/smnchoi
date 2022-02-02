@@ -1,24 +1,13 @@
-- 👋 Hi, I’m @TomTimmy
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-TomTimmy/TomTimmy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
 Welcome to my GitHub!
 ==
 
 I have being interested in...
 --
-- Algorithm Trading
+- 💵Algorithm Trading
   -  ...
   
 - Web Front 
-  - React
+  - ![alt text](https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-1024.png)React 
 
 - App Front
   - React Native
