@@ -10,15 +10,17 @@ I have being interested in...
   
 - 🖥 Web Front 
   - React 
+  - NextJS
 
 - 📱 App Front
   - React Native
+  - Flutter
   - Android Studio (Kotlin)
   - Xcode (Swift)
   
-- 😇 Backend
+- ☁️ Backend
   - AWS Amplify
-  - Nest.js
+  - NestJS
   - Spring
   - Django 
   
