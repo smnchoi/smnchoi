@@ -5,9 +5,6 @@ Learning By Doing 🏃
 
 I have being interested in...
 --
-- 💵 Algorithm Trading
-  -  ...
-  
 - 🖥 Web Front 
   - React 
   - NextJS
@@ -23,6 +20,9 @@ I have being interested in...
   - NestJS
   - Spring
   - Django 
+
+- 💵 Algorithm Trading
+  -  💰💰💰
   
   
   
