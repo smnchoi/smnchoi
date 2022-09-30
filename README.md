@@ -39,5 +39,5 @@ I have being interested in...
 ---
 
   
-> ### I am in Korea now and always finding nice place to enjoy my programming life.  
+> ### I was in Korea, and now saty in New Zealand, always finding nice place to enjoy my programming life.  
 
