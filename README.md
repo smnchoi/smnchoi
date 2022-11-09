@@ -1,7 +1,11 @@
 Learning By Doing 🏃
-==
+--
 <!-- [![TomTimmy's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=TomTimmy)](https://github.com/anuraghazra/github-readme-stats) -->
 
+Writings
+--
+- Velog (Korean)
+- Medium (English)
 
 I have being interested in...
 --
@@ -39,5 +43,6 @@ I have being interested in...
 ---
 
   
-> ### I was in Korea, and now saty in New Zealand, always finding nice place to enjoy my programming life.  
+> ### I was in Korea, and now saty in New Zealand, 
+> ### always finding nice place to enjoy my programming life.  
 
