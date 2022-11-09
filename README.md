@@ -1,6 +1,6 @@
 Learning By Doing 🏃
 ==
-[![TomTimmy's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=TomTimmy)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![TomTimmy's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=TomTimmy)](https://github.com/anuraghazra/github-readme-stats) -->
 
 
 I have being interested in...
