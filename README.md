@@ -1,33 +1,58 @@
-Learning By Doing 🏃
---
-<!-- [![TomTimmy's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=TomTimmy)](https://github.com/anuraghazra/github-readme-stats) -->
+>_I was in Korea 🇰🇷, and now I'm satying in New Zealand 🇳🇿_
 
-Writings
---
-- Velog (Korean)
-- Medium (English)
+<br/>
 
-I've being interested in...
+PROFESSIONAL EXPERIENCE
 --
-- 🖥 Web Front 
+- CTO of Baro
+- Front End Development Team Leader of CareGiver
+
+
+<br/>
+<br/>
+
+
+TECH EXPERIENCE
+--
+- **🖥 Web Front**
   - React 
   - NextJS
+  - HTML
+  - CSS
 
-- 📱 App Front
+- **📱 App Front**
   - React Native
   - Flutter
   - Android Studio (Kotlin)
   - Xcode (Swift)
   
-- ☁️ Backend
-  - AWS Amplify
+- **⌨️ Backend**
+  - AWS Products (EC2, RDS, S3, DynamoDB, Lambda, Amplify)
+  - NodeJS
   - NestJS
   - Spring
-  - Django 
+  - Django
 
-- 💵 Algorithm Trading
-  -  💰💰💰
-  
+<br/>
+
+LANGUAGE
+--
+- JS/TS
+- C/C++
+- C#
+- JAVA
+- Go
+- Python
+- Swift
+- Kotlin
+
+<br/>
+
+WRITING
+--
+- Velog (Korean)
+- Medium (English)
+
   
   
   
@@ -42,8 +67,5 @@ I've being interested in...
 
 ---
 
-  
-> I was in Korea, and now I'm satying in New Zealand.
-> - CTO of Baro
-> - Front End Development Team Leader of CareGiver
+
 
