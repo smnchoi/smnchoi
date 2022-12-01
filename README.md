@@ -1,3 +1,5 @@
+<br/>
+
 >_I was in Korea 🇰🇷, and now I'm satying in New Zealand 🇳🇿_
 
 <br/>
@@ -15,25 +17,34 @@ PROFESSIONAL EXPERIENCE
 
 TECH EXPERIENCE
 --
-- **🖥 Web Front**
+- **🖥 WEB FE**
   - React 
   - NextJS
   - HTML
   - CSS
+<br/>
 
-- **📱 App Front**
+- **📱 APP FE**
   - React Native
   - Flutter
   - Android Studio (Kotlin)
   - Xcode (Swift)
-  
-- **⌨️ Backend**
+<br/>
+
+- **☁️ SERVER**
   - AWS Products (EC2, RDS, S3, DynamoDB, Lambda, Amplify)
   - NodeJS
   - NestJS
   - Spring
   - Django
+<br/>
 
+- **💾 DB**
+  - PostgreSQL
+  - MongoDB
+  - MySQL
+  - SQLlite
+  - DynamoDB
 <br/>
 
 LANGUAGE
