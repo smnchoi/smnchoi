@@ -7,7 +7,7 @@ Writings
 - Velog (Korean)
 - Medium (English)
 
-I have being interested in...
+I've being interested in...
 --
 - 🖥 Web Front 
   - React 
