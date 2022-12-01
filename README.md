@@ -43,6 +43,7 @@ I've being interested in...
 ---
 
   
-> ### I was in Korea, and now I'm satying in New Zealand.
-> ### CTO of Baro
+> I was in Korea, and now I'm satying in New Zealand.
+> - CTO of Baro
+> - Front End Development Team Leader of CareGiver
 
