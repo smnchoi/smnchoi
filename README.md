@@ -43,6 +43,6 @@ I've being interested in...
 ---
 
   
-> ### I was in Korea, and now am satying in New Zealand, 
-> ### always finding nice place to enjoy my programming life.  
+> ### I was in Korea, and now I'm satying in New Zealand.
+> ### CTO of Baro
 
