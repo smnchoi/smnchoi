@@ -6,6 +6,7 @@ PROFESSIONAL EXPERIENCE
 --
 - CTO of Baro
 - Front End Development Team Leader of CareGiver
+- CEO of HalfDelivery
 
 
 <br/>
