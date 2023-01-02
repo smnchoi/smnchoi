@@ -4,7 +4,7 @@
 
 <br/>
 
-PROFESSIONAL EXPERIENCE
+PROFESSIONAL EXPERIENCES
 --
 - CTO of _Baro_
 - Front End Development Team Leader of _CareGiver_
@@ -15,7 +15,7 @@ PROFESSIONAL EXPERIENCE
 <br/>
 
 
-TECH EXPERIENCE
+TECHNICAL EXPERIENCES
 --
 - **🖥 WEB FE**
   - React 
@@ -47,7 +47,7 @@ TECH EXPERIENCE
   - DynamoDB
 <br/>
 
-LANGUAGE
+LANGUAGES
 --
 - JS/TS
 - C/C++
@@ -60,7 +60,7 @@ LANGUAGE
 
 <br/>
 
-WRITING
+WRITINGS
 --
 - Velog (Korean)
 - Medium (English)
