@@ -43,7 +43,7 @@ TECHNICAL EXPERIENCES
   - PostgreSQL
   - MongoDB
   - MySQL
-  - SQLlite
+  - SQLite
   - DynamoDB
 <br/>
 
