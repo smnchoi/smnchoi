@@ -1,14 +1,15 @@
 <br/>
 
->_I was in Korea 🇰🇷, and now I'm satying in New Zealand 🇳🇿_
+>_I was in Korea 🇰🇷 but now I am satying in New Zealand 🇳🇿_
 
 <br/>
 
 PROFESSIONAL EXPERIENCES
 --
-- CTO of _Baro_
-- Front End Development Team Leader of _CareGiver_
-- CEO of _HalfDelivery_
+- Web Developer at `NetValue`
+- Technical Lead of `Baro`
+- Front End Development Team Leader of `Care Giver`
+- Founder of `Half Delivery`
 
 
 <br/>
@@ -17,13 +18,6 @@ PROFESSIONAL EXPERIENCES
 
 TECHNICAL EXPERIENCES
 --
-- **🖥 WEB FE**
-  - React 
-  - NextJS
-  - HTML
-  - CSS
-<br/>
-
 - **📱 APP FE**
   - React Native
   - Flutter
@@ -31,20 +25,32 @@ TECHNICAL EXPERIENCES
   - Xcode (Swift)
 <br/>
 
+- **🖥 WEB FE**
+  - React 
+  - NextJS
+  - Svelte
+  - HTML
+  - CSS
+<br/>
+
+- **🖥 WEB CMS**
+  - WordPress 
+  - WooCommerce
+<br/>
+
 - **☁️ SERVER**
-  - AWS Products (EC2, RDS, S3, DynamoDB, Lambda, Amplify)
+  - AWS Products - EC2, RDS, S3, DynamoDB, Lambda, Amplify
   - NodeJS
   - NestJS
   - Spring
   - Django
+  - Laravel
 <br/>
 
 - **💾 DB**
   - PostgreSQL
-  - MongoDB
   - MySQL
   - SQLite
-  - DynamoDB
 <br/>
 
 LANGUAGES
@@ -57,6 +63,7 @@ LANGUAGES
 - Python
 - Swift
 - Kotlin
+- PHP
 
 <br/>
 
