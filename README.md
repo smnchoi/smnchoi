@@ -72,19 +72,4 @@ WRITINGS
 - Velog (Korean)
 - Medium (English)
 
-  
-  
-  
-  
-  
----
-
-[![TomTimmy's GitHub stats](https://github-readme-stats.vercel.app/api?username=smnchoi)](https://github.com/anuraghazra/github-readme-stats)
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smnchoi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
-
 
