@@ -1,6 +1,6 @@
 <br/>
 
->_I was in Korea 🇰🇷 but now I am satying in New Zealand 🇳🇿_
+>_Was in Korea 🇰🇷 and now I'm working in New Zealand 🇳🇿_
 
 <br/>
 
