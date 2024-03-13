@@ -6,9 +6,10 @@
 
 PROFESSIONAL EXPERIENCES
 --
+- Software Engineer at `Fisher & Paykel Healthcare`
 - Web Developer at `NetValue`
 - Technical Lead of `Baro`
-- Front End Development Team Leader of `Care Giver`
+- Co-founder of `Care Giver`
 - Founder of `Half Delivery`
 
 
